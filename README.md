@@ -8,5 +8,5 @@ This project simulates that gap — an HR analytics dashboard that lets a busine
 The semantic model is hosted and managed in Microsoft Fabric, with the Power BI report connected live to it — the same setup used in enterprise environments where the data model, security, and reporting layers are deliberately separated.
 
 ## Dashboard Preview
-![Dashboard Overview](https://github.com/utkarsh2387/HR-Analytics/blob/main/images/Deepdive.png)
 ![Dashboard Overview](https://github.com/utkarsh2387/HR-Analytics/blob/main/images/Overview.png)
+![Dashboard Overview](https://github.com/utkarsh2387/HR-Analytics/blob/main/images/Deepdive.png)
