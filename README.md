@@ -9,3 +9,4 @@ The semantic model is hosted and managed in Microsoft Fabric, with the Power BI 
 
 ## Dashboard Preview
 ![Dashboard Overview](https://github.com/utkarsh2387/HR-Analytics/blob/main/images/Deepdive.png)
+![Dashboard Overview](https://github.com/utkarsh2387/HR-Analytics/blob/main/images/Overview.png)
