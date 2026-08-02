@@ -30,3 +30,16 @@ Pivot Tables (x2)	     Headcount/Attrition breakdowns by Education Field and Age
 Navigation	           One-click return to Overview page
 
 Scope at a glance: 2 dashboard pages · 5 KPIs · 9 dimensional breakdowns · 1 drill-down hierarchy · fully cross-filtered
+
+
+## Data Security — Column-Level Security (CLS)
+Avg Monthly Income / MonthlyIncome is sensitive compensation data — in a real HR setting, not every viewer of this dashboard should see it.
+To reflect that, I implemented column-level security on the MonthlyIncome column in the Fabric/Power BI semantic model:
+Defined security roles in the semantic model (Model view → Manage Roles) restricting access to the MonthlyIncome column for non-authorized roles.
+Users assigned to a restricted role can still see all attrition metrics, department breakdowns, and headcount — but the compensation figure is hidden/blank for them, while HR/Admin roles retain full visibility.
+This demonstrates role-based access control (RBAC) at the semantic-model layer, separate from row-level filtering — a distinction most fresher-level BI portfolios skip entirely.
+
+![Column Level Security (CLS)](https://github.com/utkarsh2387/HR-Analytics/blob/main/images/CLS.png)
+![Member Roles](https://github.com/utkarsh2387/HR-Analytics/blob/main/images/Member%20roles.png)
+
+
