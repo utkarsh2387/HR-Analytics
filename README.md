@@ -10,3 +10,23 @@ The semantic model is hosted and managed in Microsoft Fabric, with the Power BI 
 ## Dashboard Preview
 ![Dashboard Overview](https://github.com/utkarsh2387/HR-Analytics/blob/main/images/Overview.png)
 ![Dashboard Overview](https://github.com/utkarsh2387/HR-Analytics/blob/main/images/Deepdive.png)
+
+
+## What's inside
+
+### Page 1 — Overview
+Component	            Purpose
+5 KPI cards	          Headcount, Avg Monthly Income, Attrition Rate, Employees Left, Avg Tenure of Leavers
+Treemap	              Left vs. Stayed employee split at a glance
+Decomposition Tree	  Drills Total Attrition → Department → Job Role → Salary Band
+Bar Chart	            Attrition Rate by Department
+Pivot Tables (x2)	    Headcount/Attrition by Education Field and by Age Group
+Slicers	              Cross-filter the entire page by Department, Gender, and more
+
+Page 2 — Deep Dive
+Component	             Purpose
+4 Bar Charts	         Attrition Rate by OverTime, Business Travel, Marital Status, and Gender
+Pivot Tables (x2)	     Headcount/Attrition breakdowns by Education Field and Age Group
+Navigation	           One-click return to Overview page
+
+Scope at a glance: 2 dashboard pages · 5 KPIs · 9 dimensional breakdowns · 1 drill-down hierarchy · fully cross-filtered
