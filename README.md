@@ -1,5 +1,5 @@
 # HR-Analytics
-## End-to-end HR analytics solution built on Power BI and Microsoft Fabric — with enterprise-grade column-level security on sensitive compensation data.
+### End-to-end HR analytics solution built on Power BI and Microsoft Fabric — with enterprise-grade column-level security on sensitive compensation data.
 
 Every company loses people. Few can tell you who, from where, and why fast enough to act on it — and fewer still can do that without exposing sensitive compensation data to everyone who opens the report.
 
