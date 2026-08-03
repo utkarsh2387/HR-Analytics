@@ -4,6 +4,8 @@
 ### Deep Dive ![Dashboard Overview](images/Deepdive.png)<br>
 
 
+### Live Power BI Report: (https://app.powerbi.com/links/ysEjRmAl9z?ctid=2bb44e71-1601-4af2-a592-4224ddcfb1c3&pbi_source=linkShare)
+
 ## 📖 Project Overview
 End-to-end HR analytics solution built on Power BI and Microsoft Fabric — with enterprise-grade column-level security on sensitive compensation data.<br>
 
