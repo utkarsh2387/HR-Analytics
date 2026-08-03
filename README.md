@@ -24,7 +24,7 @@ The semantic model is hosted and managed in Microsoft Fabric, with the Power BI 
 
 ## 📂 Dataset
 
-### Dataset Used: ![HR Attrition](https://github.com/utkarsh2387/HR-Analytics/blob/main/dataset/HR-Employee-Attrition.xlsx)<br>
+### Dataset Used: IBM HR Dataset<br>
 
 ## 📄 Dashboard Pages
 
